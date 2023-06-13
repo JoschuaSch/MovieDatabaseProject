@@ -1,0 +1,173 @@
+{
+    "The Shawshank Redemption": {
+        "rating": 9.3,
+        "year": 1994,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0111161/",
+        "notes": ""
+    },
+    "The Godfather": {
+        "rating": 9.2,
+        "year": 1972,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0068646/",
+        "notes": ""
+    },
+    "The Dark Knight": {
+        "rating": 9.0,
+        "year": 2008,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0468569/",
+        "notes": ""
+    },
+    "The Godfather Part II": {
+        "rating": 9.0,
+        "year": 1974,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0071562/",
+        "notes": ""
+    },
+    "12 Angry Men": {
+        "rating": 9.0,
+        "year": 1957,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0050083/",
+        "notes": ""
+    },
+    "Schindler's List": {
+        "rating": 9.0,
+        "year": 1993,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0108052/",
+        "notes": ""
+    },
+    "The Lord of the Rings: The Return of the King": {
+        "rating": 9.0,
+        "year": 2003,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0167260/",
+        "notes": ""
+    },
+    "Pulp Fiction": {
+        "rating": 8.9,
+        "year": 1994,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0110912/",
+        "notes": ""
+    },
+    "The Lord of the Rings: The Fellowship of the Ring": {
+        "rating": 8.8,
+        "year": 2001,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0120737/",
+        "notes": ""
+    },
+    "Forrest Gump": {
+        "rating": 8.8,
+        "year": 1994,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0109830/",
+        "notes": ""
+    },
+    "Fight Club": {
+        "rating": 8.8,
+        "year": 1999,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0137523/",
+        "notes": ""
+    },
+    "The Lord of the Rings: The Two Towers": {
+        "rating": 8.8,
+        "year": 2002,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0167261/",
+        "notes": ""
+    },
+    "Matrix": {
+        "rating": 7.8,
+        "year": 1993,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BYzUzOTA5ZTMtMTdlZS00MmQ5LWFmNjEtMjE5MTczN2RjNjE3XkEyXkFqcGdeQXVyNTc2ODIyMzY@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0106062/",
+        "notes": ""
+    },
+    "Se7en": {
+        "rating": 8.6,
+        "year": 1995,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0114369/",
+        "notes": ""
+    },
+    "Saving Private Ryan": {
+        "rating": 8.6,
+        "year": 1998,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0120815/",
+        "notes": ""
+    },
+    "Interstellar": {
+        "rating": 8.6,
+        "year": 2014,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0816692/",
+        "notes": ""
+    },
+    "The Green Mile": {
+        "rating": 8.6,
+        "year": 1999,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0120689/",
+        "notes": ""
+    },
+    "Psycho": {
+        "rating": 8.5,
+        "year": 1960,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0054215/",
+        "notes": ""
+    },
+    "Parasite": {
+        "rating": 8.5,
+        "year": 2019,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt6751668/",
+        "notes": ""
+    },
+    "Gladiator": {
+        "rating": 8.5,
+        "year": 2000,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0172495/",
+        "notes": ""
+    },
+    "City of God": {
+        "rating": 8.6,
+        "year": 2002,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0317248/",
+        "notes": ""
+    },
+    "Whiplash": {
+        "title": "Whiplash",
+        "year": 2014,
+        "rating": 8.5,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt2582802/",
+        "notes": ""
+    },
+    "Toto": {
+        "title": "Toto",
+        "year": 2020,
+        "rating": 6.6,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNGVkM2ZiOTItZDFiNy00YTY4LWFlM2YtMWMyYjgxZmFmYzc2XkEyXkFqcGdeQXVyMjY1MDg5MzY@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt10518270/",
+        "notes": "Test"
+    },
+    "Fear": {
+        "title": "Fear",
+        "year": 1996,
+        "rating": 6.2,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BZTM4ZmJmMTQtMWUxOS00MjQxLTllNmQtNzI4YWVhYzZlNTRkXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_SX300.jpg",
+        "imdb_url": "https://www.imdb.com/title/tt0116287/",
+        "notes": "Hello"
+    }
+}
